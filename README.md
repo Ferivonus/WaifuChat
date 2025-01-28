@@ -4,6 +4,9 @@
 
 A cyberpunk-themed AI chat application featuring anime characters with distinct personalities, powered by Ollama's local AI models.
 
+I just made that in one night, So it need some css updates RİGHT!!
+do not judge till it got final version, lol!!!
+
 ## 🌟 Features
 
 - 🎭 Multiple AI characters with unique response styles
