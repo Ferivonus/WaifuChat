@@ -4,17 +4,6 @@
 
 A cyberpunk-themed AI chat application featuring anime characters with distinct personalities, powered by Ollama's local AI models.
 
-## Project Name Ideas
-
-- WaifuProtocol
-- NeuroDialogue
-- CyberIdol Interface
-- AnimeSynapse
-- VirtualKōhai System
-- NeuroWired
-- PhantomChat
-- Protocol:Lain
-
 ## 🌟 Features
 
 - 🎭 Multiple AI characters with unique response styles
