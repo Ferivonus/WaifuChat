@@ -1,4 +1,4 @@
-# NeuroSync: Anime AI Companion
+# WaifuChat
 
 ![Project Banner](./assets/banner.png) <!-- Replace with actual banner path -->
 
