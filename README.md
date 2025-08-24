@@ -98,7 +98,6 @@ I don't think that it's a important project to contribute, but just mail me or s
 For feature requests or collaborations:
 
 - mail:      <ferivonus@gmail.com>
-- instagram: fahrettinb1
 
 "Present day... present time..." - Lain
 Project created with ❤️ by ferivonus
